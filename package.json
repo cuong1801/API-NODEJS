@@ -27,6 +27,6 @@
     "validator": "^13.0.0"
   },
   "devDependencies": {
-    "handlebars": "^4.7.6"
+    "handlebars": "^4.7.7"
   }
 }
